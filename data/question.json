@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "How many players are there in a cricket team on the field?",
+      "options": ["9", "10", "11", "12"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is the maximum number of overs in a One Day International (ODI) match per team?",
+      "options": ["20", "40", "50", "60"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which country won the ICC Cricket World Cup in 2019?",
+      "options": ["India", "Australia", "England", "New Zealand"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is it called when a bowler takes three wickets in three consecutive balls?",
+      "options": ["Triple", "Hat-trick", "Super over", "Power play"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "How many runs are awarded for hitting the ball over the boundary without touching the ground?",
+      "options": ["4", "5", "6", "7"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which player is known as the 'God of Cricket'?",
+      "options": [
+        "Virat Kohli",
+        "Sachin Tendulkar",
+        "Ricky Ponting",
+        "Brian Lara"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What does LBW stand for in cricket?",
+      "options": [
+        "Leg Before Wicket",
+        "Long Bat Wicket",
+        "Leg Behind Wicket",
+        "Low Ball Wicket"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "How many balls are there in one over in international cricket?",
+      "options": ["5", "6", "7", "8"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which format of cricket is the shortest?",
+      "options": ["Test", "ODI", "T20", "First Class"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is the term when a batsman gets out without scoring any runs?",
+      "options": ["Zero", "Duck", "Golden", "Null"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What is the name of the area behind the stumps where the wicketkeeper stands?",
+      "options": ["Slip", "Crease", "Pitch", "Wicket area"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Which country has won the most ICC Cricket World Cups?",
+      "options": ["India", "Australia", "England", "West Indies"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "What is the length of a cricket pitch?",
+      "options": ["20 yards", "22 yards", "24 yards", "26 yards"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "What is a 'no ball' usually given for?",
+      "options": [
+        "Bowling above waist height",
+        "Overstepping the crease",
+        "Both of the above",
+        "Slow bowling"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "What happens in a Super Over?",
+      "options": [
+        "Match is restarted",
+        "Each team plays one extra over to break a tie",
+        "Both teams bat again fully",
+        "Match is declared draw"
+      ],
+      "correctOption": 1,
+      "points": 30
+    }
+  ]
+}
